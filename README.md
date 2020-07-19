@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Say Hi](http://gifsee.com/post/58611969989)
+![Say Hi](https://media.giphy.com/media/Lus7XaEFQbS1y/giphy.gif)
